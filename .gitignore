@@ -1,0 +1,13 @@
+build/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+*.bin
+.DS_Store
